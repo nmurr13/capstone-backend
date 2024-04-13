@@ -24,7 +24,7 @@
 
 ## Technologies Used 
 
-- PostgreSQL, Sequelize, Node Express
+- PostgreSQL, Sequelize, Express, Node JS
 
 ## Route MAP
 -coming soon, will have a control panel to demonstrate CRUD. 
